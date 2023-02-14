@@ -1,3 +1,5 @@
 Assalamuaalikum World
 This is the Html and Css
 HTML
+HTML  is used to structure the web page. Without the HTML no website is existing.
+We are using always the HTML when ever we are making the websites
