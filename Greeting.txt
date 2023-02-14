@@ -4,3 +4,5 @@ HTML
 HTML  is used to structure the web page. Without the HTML no website is existing.
 We are using always the HTML when ever we are making the websites
 CSS
+Css is used for stying the webpage 
+Through css we add the color font and padding, margin using css
